@@ -53,3 +53,13 @@ background-color: hsl(33, 71%, 50%);
     font-weight: bold;
     color:rgb(10, 167, 172);
 }
+
+
+.page{
+    background-color: rgba(5, 255, 130, 0.299);
+    margin-left: 400px;
+    margin-right: 400px;
+    border: none;
+    box-shadow: 10px 10px hsla(0, 0%, 5%, 0.08);
+    border-radius: 3px;
+}
