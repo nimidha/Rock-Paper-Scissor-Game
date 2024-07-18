@@ -22,7 +22,7 @@ In this game, there are two players: you and the computer. The screen displays t
 # How to Play
 
     Clone or download the repository to your local machine.
-    Open the index.html file in a web browser.
+    Open the .html file in a web browser.
     Click on your choice of Rock, Paper, or Scissors.
     See the computer's choice and the result displayed on the screen.
     Your scores (PlayerScore, ComputerScore, and TotalScore) will update accordingly.
